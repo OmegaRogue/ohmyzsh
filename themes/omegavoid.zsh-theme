@@ -42,7 +42,7 @@ esac
 # Special Powerline characters
 
 () {
-  local LC_ALL="" LC_CTYPE="en_US.UTF-8"
+  local LC_ALL="" LC_CTYPE="de_DE.UTF-8"
   # NOTE: This segment separator character is correct.  In 2012, Powerline changed
   # the code points they use for their special characters. This is the new code point.
   # If this is not working for you, you probably have an old version of the
